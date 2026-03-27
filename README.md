@@ -27,34 +27,39 @@
 
 <div align="center">
 
-┌───────────────────────────────────────────────────────────────┐
-│                      anmol@ai-lab:~$                          │
-├───────────────────────────────────────────────────────────────┤
-│                                                               │
-│  > boot profile.sh                                            │
-│  Initializing developer environment...                        │
-│  Loading neural networks...                                   │
-│  Connecting to AI systems...                                  │
-│                                                               │
-│  > whoami                                                     │
-│  Anmol                                                        │
-│  Data Science Student · AI / ML Enthusiast                    │
-│                                                               │
-│  > cat mission.txt                                            │
-│  Building intelligent systems at the intersection of          │
-│  language, machine learning, and developer tooling.           │
-│                                                               │
-│  > ls interests/                                              │
-│  nlp/  semantic-search/  llm-tools/  hackathons/              │
-│  developer-tools/  creative-tech/  DSA/                       │
-│                                                               │
-│  > echo $current_focus                                        │
-│  Exploring vectors, embeddings, and building AI tools.        │
-│                                                               │
-│  > run future.exe                                             │
-│  Designing systems that turn ideas into intelligence.         │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<td>
+
+
+anmol@ai-lab:~$ boot profile.sh
+Initializing developer environment...
+Loading neural networks...
+Connecting to AI systems...
+
+anmol@ai-lab:~$ whoami
+Anmol
+Data Science Student · AI / ML Enthusiast
+
+anmol@ai-lab:~$ cat mission.txt
+Building intelligent systems at the intersection of
+language, machine learning, and developer tooling.
+
+anmol@ai-lab:~$ ls interests/
+nlp/ semantic-search/ llm-tools/ hackathons/
+developer-tools/ creative-tech/ DSA/
+
+anmol@ai-lab:~$ echo $current_focus
+Exploring vectors, embeddings, and building AI tools.
+
+anmol@ai-lab:~$ run future.exe
+Designing systems that turn ideas into intelligence.
+
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
