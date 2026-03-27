@@ -27,30 +27,34 @@
 
 <div align="center">
 
-```bash
-┌──────────────────────────────────────────────────────┐
-│                   anmol@universe:~$                  │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  > whoami                                            │
-│  Data Science Student · AI - ML Enthusiast           │
-│                                                      │
-│  > cat about.txt                                     │
-│  From India, building at the intersection of         │
-│  language, intelligence, and developer tooling.      │
-│  .        │
-│                                                      │
-│  > ls interests/                                     │
-│  nlp/  semantic-search/  llm-tools/  hackathons/     │
-│  developer-tools/  creative-tech/     DSA            │
-│                                                      │
-│  > echo $status                                      │
-│  Currently: Deep in vectors & embeddings and         |
-| learning fundamentals of DSA                         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
+┌───────────────────────────────────────────────────────────────┐
+│                      anmol@ai-lab:~$                          │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  > boot profile.sh                                            │
+│  Initializing developer environment...                        │
+│  Loading neural networks...                                   │
+│  Connecting to AI systems...                                  │
+│                                                               │
+│  > whoami                                                     │
+│  Anmol                                                        │
+│  Data Science Student · AI / ML Enthusiast                    │
+│                                                               │
+│  > cat mission.txt                                            │
+│  Building intelligent systems at the intersection of          │
+│  language, machine learning, and developer tooling.           │
+│                                                               │
+│  > ls interests/                                              │
+│  nlp/  semantic-search/  llm-tools/  hackathons/              │
+│  developer-tools/  creative-tech/  DSA/                       │
+│                                                               │
+│  > echo $current_focus                                        │
+│  Exploring vectors, embeddings, and building AI tools.        │
+│                                                               │
+│  > run future.exe                                             │
+│  Designing systems that turn ideas into intelligence.         │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 </div>
 
 <br/>
