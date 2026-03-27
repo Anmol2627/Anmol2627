@@ -296,15 +296,11 @@ results = searcher.query(
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmol/anmol/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmol/anmol/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anmol/anmol/output/github-snake-dark.svg" />
-</picture>
+<h3 align="center">🐍 Contribution Snake</h3>
 
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github.com/Anmol2627/Anmol2627/blob/output/github-snake-dark.svg" />
+</p>
 
 <!-- ── ANIMATED SEPARATOR ── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
