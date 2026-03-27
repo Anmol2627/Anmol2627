@@ -21,47 +21,44 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         TERMINAL INTRO                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```bash
-┌──────────────────────────────────────────────────────────────┐
-│                     anmol@ai-lab:~$                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  anmol@ai-lab:~$ boot profile.sh                            │
-│  Initializing developer environment...                       │
-│  Loading neural networks...                                  │
-│  Connecting to AI systems...                                 │
-│                                                              │
-│  anmol@ai-lab:~$ whoami                                      │
-│  Anmol                                                       │
-│  Data Science Student · AI / ML Enthusiast                   │
-│                                                              │
-│  anmol@ai-lab:~$ cat mission.txt                             │
-│  Building intelligent systems at the intersection of         │
-│  language, machine learning, and developer tooling.          │
-│                                                              │
-│  anmol@ai-lab:~$ ls interests/                               │
-│  nlp/  semantic-search/  llm-tools/  hackathons/             │
-│  developer-tools/  creative-tech/  DSA/                      │
-│                                                              │
-│  anmol@ai-lab:~$ echo $current_focus                         │
-│  Exploring vectors, embeddings, and building AI tools.       │
-│                                                              │
-│  anmol@ai-lab:~$ run future.exe                              │
-│  Designing systems that turn ideas into intelligence.        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+## 👨‍💻 About Me
+
+💡 **Data Science Student & AI-ML Enthusiast**  
+Building intelligent systems using machine learning, NLP, and modern developer tools.
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🔍 Focus Areas | 🚀 Interests | 🧠 Currently Exploring |
+|----------------|--------------|-----------------------|
+| Machine Learning | Hackathons | Vector Databases |
+| Natural Language Processing | AI Tools | Embeddings |
+| Data Science | Developer Tools | Semantic Search |
+| Algorithms & DSA | Creative Tech | LLM Systems |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌱 Mission
+
+Design systems that transform **data into intelligence** and  
+build tools that make **AI more useful for developers and people.**
 
 </div>
 
 <br/>
-
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                      CURRENT FOCUS SECTION                        -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
