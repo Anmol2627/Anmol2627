@@ -312,126 +312,17 @@ results = searcher.query(
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED NEURAL NETWORK SVG                      -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ## 🧠 Neural Aesthetics
 
-<!-- Animated AI-themed SVG neural network -->
-<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" width="800" height="200">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#a855f7;stop-opacity:1" />
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <!-- Layer 1 nodes -->
-  <circle cx="80" cy="60" r="10" fill="#6366f1" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;13;10" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="80" cy="100" r="10" fill="#6366f1" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;13;10" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="80" cy="140" r="10" fill="#6366f1" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;13;10" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Layer 2 nodes -->
-  <circle cx="240" cy="50" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="240" cy="90" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="240" cy="130" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="240" cy="170" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.8s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Layer 3 nodes -->
-  <circle cx="400" cy="60" r="12" fill="#a855f7" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="12;16;12" dur="2.1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="400" cy="100" r="12" fill="#a855f7" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="12;16;12" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="400" cy="140" r="12" fill="#a855f7" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="12;16;12" dur="1.9s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Layer 4 nodes -->
-  <circle cx="560" cy="50" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="560" cy="90" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.7s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="560" cy="130" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.1s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="560" cy="170" r="10" fill="#818cf8" filter="url(#glow)" opacity="0.9">
-    <animate attributeName="r" values="10;14;10" dur="2.5s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Output node -->
-  <circle cx="720" cy="100" r="14" fill="url(#grad1)" filter="url(#glow)" opacity="1">
-    <animate attributeName="r" values="14;18;14" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <!-- Connections L1→L2 -->
-  <line x1="90" y1="60" x2="230" y2="50" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="60" x2="230" y2="90" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="60" x2="230" y2="130" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="100" x2="230" y2="50" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="100" x2="230" y2="90" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="100" x2="230" y2="130" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="100" x2="230" y2="170" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="140" x2="230" y2="90" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="140" x2="230" y2="130" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <line x1="90" y1="140" x2="230" y2="170" stroke="#6366f1" stroke-width="0.8" opacity="0.3"/>
-  <!-- Connections L2→L3 -->
-  <line x1="250" y1="50" x2="388" y2="60" stroke="#818cf8" stroke-width="0.8" opacity="0.3"/>
-  <line x1="250" y1="90" x2="388" y2="60" stroke="#818cf8" stroke-width="0.8" opacity="0.3"/>
-  <line x1="250" y1="90" x2="388" y2="100" stroke="#818cf8" stroke-width="0.8" opacity="0.3"/>
-  <line x1="250" y1="130" x2="388" y2="100" stroke="#818cf8" stroke-width="0.8" opacity="0.3"/>
-  <line x1="250" y1="130" x2="388" y2="140" stroke="#818cf8" stroke-width="0.8" opacity="0.3"/>
-  <line x1="250" y1="170" x2="388" y2="140" stroke="#818cf8" stroke-width="0.8" opacity="0.3"/>
-  <!-- Connections L3→L4 -->
-  <line x1="412" y1="60" x2="550" y2="50" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <line x1="412" y1="60" x2="550" y2="90" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <line x1="412" y1="100" x2="550" y2="50" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <line x1="412" y1="100" x2="550" y2="90" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <line x1="412" y1="100" x2="550" y2="130" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <line x1="412" y1="140" x2="550" y2="130" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <line x1="412" y1="140" x2="550" y2="170" stroke="#a855f7" stroke-width="0.8" opacity="0.3"/>
-  <!-- Connections L4→Output -->
-  <line x1="570" y1="50" x2="706" y2="100" stroke="#818cf8" stroke-width="1" opacity="0.4"/>
-  <line x1="570" y1="90" x2="706" y2="100" stroke="#818cf8" stroke-width="1" opacity="0.4"/>
-  <line x1="570" y1="130" x2="706" y2="100" stroke="#818cf8" stroke-width="1" opacity="0.4"/>
-  <line x1="570" y1="170" x2="706" y2="100" stroke="#818cf8" stroke-width="1" opacity="0.4"/>
-  <!-- Animated data pulses -->
-  <circle r="3" fill="#f59e0b" filter="url(#glow)" opacity="0.8">
-    <animateMotion dur="2s" repeatCount="indefinite" path="M80,60 L240,90 L400,100 L560,90 L720,100"/>
-  </circle>
-  <circle r="3" fill="#10b981" filter="url(#glow)" opacity="0.8">
-    <animateMotion dur="2.5s" repeatCount="indefinite" begin="0.8s" path="M80,140 L240,130 L400,140 L560,130 L720,100"/>
-  </circle>
-  <circle r="3" fill="#f43f5e" filter="url(#glow)" opacity="0.8">
-    <animateMotion dur="1.8s" repeatCount="indefinite" begin="0.4s" path="M80,100 L240,170 L400,60 L560,50 L720,100"/>
-  </circle>
-</svg>
+<img src="https://raw.githubusercontent.com/Anmol2627/Anmol2627/main/neural.svg" width="900"/>
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ── ANIMATED SEPARATOR ── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
