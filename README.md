@@ -306,21 +306,7 @@ results = searcher.query(
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     LIVE CODING ACTIVITY                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⌨️ Coding Activity
-
-<!-- Replace YOUR_USERNAME with your WakaTime username once set up -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anmol&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9&layout=compact" alt="WakaTime Stats"/>
-
-</div>
-
-<br/>
+>
 
 <!-- ── ANIMATED SEPARATOR ── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -452,36 +438,6 @@ results = searcher.query(
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB PROFILE TROPHIES                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=anmol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ── ANIMATED SEPARATOR ── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                      SPOTIFY NOW PLAYING                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT SECTION                             -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
