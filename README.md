@@ -374,9 +374,7 @@ results = searcher.query(
 
 <br/>
 
-![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-India%20%F0%9F%87%AE%F0%9F%87%B3-ff9933?style=flat-square)
 
-</div>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
 <!--   SETUP NOTES (delete this section before publishing)             -->
