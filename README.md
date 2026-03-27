@@ -25,13 +25,7 @@
 <!--                         TERMINAL INTRO                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-
+```bash
 anmol@ai-lab:~$ boot profile.sh
 Initializing developer environment...
 Loading neural networks...
@@ -46,23 +40,20 @@ Building intelligent systems at the intersection of
 language, machine learning, and developer tooling.
 
 anmol@ai-lab:~$ ls interests/
-nlp/ semantic-search/ llm-tools/ hackathons/
-developer-tools/ creative-tech/ DSA/
+nlp/
+semantic-search/
+llm-tools/
+hackathons/
+developer-tools/
+creative-tech/
+DSA/
 
 anmol@ai-lab:~$ echo $current_focus
 Exploring vectors, embeddings, and building AI tools.
 
 anmol@ai-lab:~$ run future.exe
 Designing systems that turn ideas into intelligence.
-
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
+```
 
 <!-- ── ANIMATED SEPARATOR ── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
