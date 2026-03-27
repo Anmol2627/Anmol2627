@@ -1,0 +1,92 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#6366f1"/>
+<stop offset="100%" stop-color="#a855f7"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+</defs>
+
+<!-- connections -->
+<g stroke="#7c83ff" stroke-width="1" opacity="0.35">
+<line x1="100" y1="60" x2="300" y2="70"/>
+<line x1="100" y1="110" x2="300" y2="110"/>
+<line x1="100" y1="160" x2="300" y2="150"/>
+
+<line x1="300" y1="70" x2="520" y2="80"/>
+<line x1="300" y1="110" x2="520" y2="110"/>
+<line x1="300" y1="150" x2="520" y2="140"/>
+
+<line x1="520" y1="80" x2="760" y2="110"/>
+<line x1="520" y1="110" x2="760" y2="110"/>
+<line x1="520" y1="140" x2="760" y2="110"/>
+</g>
+
+<!-- nodes -->
+<g fill="#6366f1" filter="url(#glow)">
+<circle cx="100" cy="60" r="9">
+<animate attributeName="r" values="9;13;9" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="100" cy="110" r="9">
+<animate attributeName="r" values="9;13;9" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="100" cy="160" r="9">
+<animate attributeName="r" values="9;13;9" dur="1.9s" repeatCount="indefinite"/>
+</circle>
+</g>
+
+<g fill="#818cf8" filter="url(#glow)">
+<circle cx="300" cy="70" r="10">
+<animate attributeName="r" values="10;14;10" dur="2.1s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="300" cy="110" r="10">
+<animate attributeName="r" values="10;14;10" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="300" cy="150" r="10">
+<animate attributeName="r" values="10;14;10" dur="2s" repeatCount="indefinite"/>
+</circle>
+</g>
+
+<g fill="#a855f7" filter="url(#glow)">
+<circle cx="520" cy="80" r="12">
+<animate attributeName="r" values="12;16;12" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="520" cy="110" r="12">
+<animate attributeName="r" values="12;16;12" dur="2.5s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="520" cy="140" r="12">
+<animate attributeName="r" values="12;16;12" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+</g>
+
+<!-- output node -->
+<circle cx="760" cy="110" r="14" fill="url(#g1)" filter="url(#glow)">
+<animate attributeName="r" values="14;18;14" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<!-- moving data -->
+<circle r="4" fill="#f59e0b">
+<animateMotion dur="3s" repeatCount="indefinite"
+path="M100,60 L300,110 L520,110 L760,110"/>
+</circle>
+
+<circle r="4" fill="#10b981">
+<animateMotion dur="2.5s" repeatCount="indefinite"
+path="M100,160 L300,150 L520,140 L760,110"/>
+</circle>
+
+</svg>
