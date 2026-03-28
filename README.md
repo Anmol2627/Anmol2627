@@ -251,20 +251,21 @@ results = searcher.query(
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+is everything ok in this github anlytics ciode
 ## 📊 GitHub Analytics
 
 <br/>
 
 <a href="https://github.com/Anmol2627">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anmol2627&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2627&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anmol2627&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2627&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Anmol2627&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol2627&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1" alt="GitHub Streak"/>
 
-<br/><br/>
+<br/><br/>/>
 
 
 <!-- CONTRIBUTION GRAPH -->
