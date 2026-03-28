@@ -251,36 +251,28 @@ results = searcher.query(
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB ANALYTICS DASHBOARD                    -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
 ## 📊 GitHub Analytics
 
 <br>
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anmol2627&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anmol2627&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2627&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2627&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anmol2627&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1"/>
+  <img src="https://streak-stats.demolab.com?user=Anmol2627&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2627&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=6366f1&line=6366f1&point=c9d1d9"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2627&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<br>
 
 <!-- CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2627&bg_color=0D1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
