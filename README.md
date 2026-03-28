@@ -253,25 +253,18 @@ results = searcher.query(
 <br/>
 ## 📊 GitHub Analytics
 
-<br>
+<br/>
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anmol2627&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+<a href="https://github.com/Anmol2627">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Anmol2627&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2627&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9"/>
+</a>
 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2627&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-</p>
+<br/><br/>
 
-<br>
+<img src="https://streak-stats.demolab.com/?user=Anmol2627&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1&sideLabels=6366f1"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anmol2627&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2627&theme=tokyo-night&hide_border=true"/>
-</p>
+<br/><br/>
 
 
 <!-- CONTRIBUTION GRAPH -->
