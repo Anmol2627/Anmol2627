@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<!-- ── PARTICLE / NEURAL NETWORK HERO BANNER ── -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=ANMOL&fontSize=90&fontColor=fff&fontAlignY=55&desc=Data%20Science%20Student%20%7C%20AI-ML%20Enthusiast&descSize=18&descAlignY=75&animation=twinkling&stroke=6666ff&strokeWidth=2" width="100%"/>
 
 </div>
