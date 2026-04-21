@@ -11,7 +11,7 @@
 
 <!-- ── TYPING SVG ── -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+think+%F0%9F%A7%A0;NLP+%2B+Semantic+Search+%2B+Vector+Embeddings;Turning+hackathon+ideas+into+real+products;Open+Source+%7C+Open+Mind+%7C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+think+%F0%9F%A7%A0;NLP+%2B+Semantic+Search+%2B+Vector+Embeddings;Turning+hackathon+ideas+into+real+product;Open+Source+%7C+Open+Mind+%7C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </div>
 
 <br/>
