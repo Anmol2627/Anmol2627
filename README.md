@@ -43,7 +43,7 @@ Building intelligent systems using machine learning, NLP, and modern developer t
 | Machine Learning | Hackathons | Vector Databases |
 | Natural Language Processing | AI Tools | Embeddings |
 | Data Science | Developer Tools | Semantic Search |
-| Algorithms & DSA | Creative Tech | LLM Systems |
+| Algorithms & DSA | Creative Tech | LLM System |
 
 </div>
 
