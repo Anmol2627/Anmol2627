@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-💡 **Data Science Student & AIML Enthusiast**  
+💡 **Data Science Student & AI-ML Enthusiast**  
 Building intelligent systems using machine learning, NLP, and modern developer tools.
 
 </div>
