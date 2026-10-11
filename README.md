@@ -3,10 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=56&duration=1&pause=100000&color=7C83FF&center=true&vCenter=true&width=900&height=80&lines=Anmol"
-    alt="Anmol"
-  />
+  <img src="assets/namev4.svg" width="340" alt="Anmol" />
 </p>
 
 <p align="center">
