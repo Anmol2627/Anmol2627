@@ -4,6 +4,13 @@
 
 <p align="center">
   <img
+    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=56&duration=1&pause=100000&color=7C83FF&center=true&vCenter=true&width=900&height=80&lines=Anmol"
+    alt="Anmol"
+  />
+</p>
+
+<p align="center">
+  <img
     src="assets/anmolposter.png"
     width="100%"
     alt="Anmol"
@@ -12,7 +19,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1200&color=7C83FF&center=true&vCenter=true&width=900&lines=Anmol;AI+Engineer;Building+RAG+%26+Multi-Agent+Systems;CSE+%28Data+Science%29+%40+SRMIST;Builder+%7C+Problem+Solver+%7C+Learner"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2000&pause=1000&color=7C83FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+RAG+%26+Multi-Agent+Systems;CSE+%28Data+Science%29+%40+SRMIST;Builder+%7C+Problem+Solver+%7C+Learner"
     alt="Typing SVG"
   />
 </p>
